@@ -4,7 +4,6 @@
 
     var historydata = [
                         ['bing', 'https://cn.bing.com/search?q='],
-                      
                         ['google', 'https://www.google.com/#newwindow=1&safe=strict&q='],
                         ['douban', 'https://www.douban.com/search?q='],
                         ['sinaweibo', 'http://s.weibo.com/weibo/'],
