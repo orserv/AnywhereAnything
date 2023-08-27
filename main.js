@@ -4,14 +4,13 @@
 
     var historydata = [
                         ['bing', 'https://cn.bing.com/search?q='],
+                      
                         ['google', 'https://www.google.com/#newwindow=1&safe=strict&q='],
                         ['douban', 'https://www.douban.com/search?q='],
                         ['sinaweibo', 'http://s.weibo.com/weibo/'],
                         ['googleimage', 'https://google.com/search?q='],
-                        ['pinterest', 'http://pinterest.com/search/pins/?q='],
                         ['twitter','https://twitter.com/search?q='],
                         ['googlemaps', 'http://www.google.cn/maps/search/'],
-                        ['youdict', 'http://www.youdict.com/w/']
                     ]
 
     var historylist = document.querySelector('#searchItem')
